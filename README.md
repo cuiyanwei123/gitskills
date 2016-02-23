@@ -11,3 +11,4 @@ try git stash!
 
 Git is a free software.
 
+try fix bug of tag v0.1
